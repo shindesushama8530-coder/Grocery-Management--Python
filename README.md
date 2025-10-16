@@ -2,7 +2,7 @@
 Create an online system to sell grocery items and make it easier to manage orders, talk with customers, and deliver products quickly and smoothly. This will help customers shop easily and get their groceries on time.
 
 # Grocery-Management--Python
-
+https://github.com/shindesushama8530-coder/Grocery-Management--Python/blob/main/ui/images/bg.jpg
 ## 📦 Project Overview
 
 This project is an **online grocery management system** built using Python. It helps manage grocery products, process customer orders, improve communication, and ensure smooth and timely delivery. The goal is to create an easy, fast, and user-friendly shopping experience for both customers and store managers.
